@@ -10,6 +10,4 @@ dependencyResolutionManagement {
     }
 }
 
-
 rootProject.name = "Message-REST-Server"
-
